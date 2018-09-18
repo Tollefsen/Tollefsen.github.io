@@ -17,7 +17,7 @@ Ei rik handelsdame har spurt om frivillige til å finne hennes to voksne barn og
 | Garon        | Drifter av Den Gamle Gris                                                   | Lever  |
 | Kalkrix      | Kvit drage i den fortapte festning                                          | Lever  |
 | Mipo         | Kobolt og tidligere eiger av Kalkrix. Drept av Kalkrix                      | Død    |
-| Jistrail     | Høvdinne av kobolts                                                         | Lever  |
+| Yustrael     | Høvdinne av kobolts                                                         | Lever  |
 | Tarkel       | Ein av fire forsvunnede skattejegere                                        | Ukjent |
 | Sjarven      | Ein av fire forsvunnede skattejegere                                        | Ukjent |
 | Karakas      | Ein av fire forsvunnede skattejegere (FUNNET DØD)                           | Død    |
@@ -38,7 +38,7 @@ Når vi gikk inn i festningen såg vi flere døde gobliner. Ein av goblinsene va
 
 Inne i festningen kom vi over eit lite kobolt barn med navn Mipo. Mipo var redd oss i starten, men ble fort varm i trøya etter at Kysmae fortalte eit eventyr der Mipo hadde hovedrollen. Mipo viste oss veien til tronerommet til koboltene og brukte eit passord for å ikkje bli angripet av vaktene.
 
-Ved tronen møtte vi Jistrail, høvdinnen til koboltene. Vi forhandlet fram ei avtale der vi skulle hjelpe med å fange dragen de hadde mistet fra goblinene, så skulle de hjelpe oss med å komme oss forbi gobliene så vi kunne fortsette jakten på de forsvunnede skattejegerne.
+Ved tronen møtte vi Yustrael, høvdinnen til koboltene. Vi forhandlet fram ei avtale der vi skulle hjelpe med å fange dragen de hadde mistet fra goblinene, så skulle de hjelpe oss med å komme oss forbi gobliene så vi kunne fortsette jakten på de forsvunnede skattejegerne.
 
 Vi tok med oss Mipo for å vise veg. I eit rom såg vi ei stor fortene som var formet som ein drage. Vatnet i fontenen var rart, og vi fant ut at når man drakk det så kunne man sprute flammer! Spot fylte vannskinnet sitt med vesken i fontenen.
 
@@ -60,7 +60,7 @@ Dragen viste veg til ein stor hall der mange av goblinene hadde samlet seg. Med 
 
 Medan dragen åt de siste rester av dragen la vi på sprang tilbake til koboltene. Vi håpte at de ville hjelpe oss med å roe ned dragen.
 
-Tilbake i tronerommet til koboltene begynte forhandlingene med Jistrail. Vi mente at dragen allerede hadde gjort det koboltene skulle hjelpe oss med og ønsket at de heller skulle hjelpe oss med å drepe dragen. Koboltene ønsket ikkje å kjempe med drager, ettersom de forgudet drager. Men siden vi hadde drept så mange gobliner så skulle vi få ein belønning. Vi fikk ein magisk fjør som veks eit eiketre på null komma niks, og ein nøkkel til graven til dragepresten.
+Tilbake i tronerommet til koboltene begynte forhandlingene med Yustrael. Vi mente at dragen allerede hadde gjort det koboltene skulle hjelpe oss med og ønsket at de heller skulle hjelpe oss med å drepe dragen. Koboltene ønsket ikkje å kjempe med drager, ettersom de forgudet drager. Men siden vi hadde drept så mange gobliner så skulle vi få ein belønning. Vi fikk ein magisk fjør som veks eit eiketre på null komma niks, og ein nøkkel til graven til dragepresten.
 
 I tillegg fikk vi lov til å tilbringe ei ekstra natt hos dem dersom vi lagde øl og spilte musikk for dem. Vi kunne hente vatn til øllet på eit lagerrom. Når vi ankom lagerrommet kunne vi høre lyder fra tønna med vatn. Vi gjorde oss klare til å angripe det som ville komme ut fra tønna.
 
