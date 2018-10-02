@@ -23,6 +23,11 @@ Ei rik handelsdame har spurt om frivillige til å finne hennes to voksne barn og
 | Karakas      | Ein av fire forsvunnede skattejegere (FUNNET DØD)                           | Død    |
 | Belak        | Person som dro ned i det dype for en stund siden. Mulig alias: Den utstøtte | Ukjent |
 | Den Utstøtte | Ukjent identitet. Holder til i dypet                                        | Ukjent |
+| Durn | Lederen av goblinene. Hobgoblin | Ukjent |
+| Goblin sjaman | Sjaman som alltid er ved lederens side | Ukjent |
+| Gubub | Goblin som er tatt til fange av koboltene. Kjøpt av Himo som navigator under tvang | Lever |
+| Erkel | Sjølvstendig eventyrer av type religiøs gnom. Kjem fra ein plass langt sør (sørvest). Tatt til fange av gobliene og reddet av oss. Ønsker å hjelpe oss med eventyret | Lever |
+| Dragepresten | Begravd i livet, drept av oss. Fine sko | Død |
 
 ### Ti dager
 
