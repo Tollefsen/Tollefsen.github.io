@@ -40,7 +40,7 @@ I et kappløp mot tiden reiser vi til storbyen for å finne nokon som kan redde 
 | Spell scroll B    | Ukjent spell                                                                                                                     | Ukjent                     |
 | Spell scroll C    | Ukjent spell                                                                                                                     | Ukjent                     |
 | Spell scroll D    | Ukjent spell                                                                                                                     | Ukjent                     |
-| Ravnfigur         | Ein sølvstatue av ein ravn. Ludan bekreftet at den er magisk, men veit fortsatt ikkje kva den gjer                               | Ukjent                     |
-| Draconic bok      | Bok om drager?                                                                                                                   | Ulest                      |
+| Ravnfigur         | Ein sølvstatue av ein ravn. Ludan bekreftet at den er magisk, men veit fortsatt ikkje kva den gjer. Letandel                               | Ukjent                     |
+| Draconic bok      | Bok om drager. Skrevet av ein person som forguder kromatiske drager                                                              | Ulest                      |
 | Druidic bok       | Bok om Gultias treet. Flittig brukt av Belak med hans notater                                                                    | Skumlest                   |
 | Dvergiske scrolls | "De få som er igjen<br>På ordre fra [name] den sorte<br>har vi laget eit hemmelig tilflyktssted<br>Ingen kommer til å finne oss" | Må diskuterest med dverger |
