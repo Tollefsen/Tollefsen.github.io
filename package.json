@@ -1,0 +1,26 @@
+{
+  "name": "tollefsen.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel *.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tollefsen/Tollefsen.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tollefsen/Tollefsen.github.io/issues"
+  },
+  "homepage": "https://github.com/Tollefsen/Tollefsen.github.io#readme",
+  "dependencies": {
+    "overmind": "^7.0.1",
+    "overmind-react": "^7.0.1",
+    "react": "^16.7.0-alpha.2",
+    "react-dom": "^16.7.0-alpha.2"
+  }
+}
