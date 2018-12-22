@@ -1,0 +1,1 @@
+parcel is useless for this project, change to webpack
